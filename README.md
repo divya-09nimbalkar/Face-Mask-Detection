@@ -1,5 +1,6 @@
 # Face Mask Detection
 
+
 ## Overview
 Professional face mask detection project with training, evaluation, and live inference.
 
